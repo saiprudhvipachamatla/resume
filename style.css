@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.about{
+    font-size: 40px;
+}
+.abt{
+    font-size: 20px;
+}
+.exp{
+    font-size: 40px;
+}
+.expnce{
+    font-size: 20px;
+}
+.projects{
+    font-size: 40px;
+}
+.edu{
+    font-size: 40px;
+}
+table, th, td {
+    border: 2px solid black;
+  }
